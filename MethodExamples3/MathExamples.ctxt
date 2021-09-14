@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MathExamples
+comment1.params=a\ b
+comment1.target=double\ average(double,\ double)
+comment10.params=n
+comment10.target=double\ squareRoot(double)
+comment2.params=a\ b\ c
+comment2.target=double\ average(double,\ double,\ double)
+comment3.params=n
+comment3.target=double\ abs(double)
+comment4.params=number
+comment4.target=boolean\ isThreeven(int)
+comment4.text=\n\ Returns\ true\ if\ the\ input\ is\ divisible\ by\ three\ and\ false\ otherwise\n
+comment5.params=number\ divisor
+comment5.target=boolean\ isDivisibleBy(int,\ int)
+comment5.text=\n\ Returns\ true\ if\ the\ input\ number\ is\ divisible\ by\ the\ input\ divisor.\n
+comment6.params=
+comment6.target=java.lang.String\ coinFlip()
+comment7.params=n
+comment7.target=int\ factorial(int)
+comment7.text=\n\ Returns\ the\ factorial\ of\ the\ given\ number.\n\ \n\ For\ example\ factorial(5)\ \=\ 1\ *\ 2\ *\ 3\ *\ 4\ *\ 5\n
+comment8.params=years
+comment8.target=int\ ageInSeconds(int)
+comment9.params=a\ b
+comment9.target=double\ solveHypotenuse(double,\ double)
+numComments=11

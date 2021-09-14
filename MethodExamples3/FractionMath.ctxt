@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FractionMath
+comment1.params=a\ b
+comment1.target=Fraction\ multiply(Fraction,\ Fraction)
+comment2.params=a
+comment2.target=Fraction\ reciprocal(Fraction)
+comment3.params=a\ b
+comment3.target=Fraction\ divide(Fraction,\ Fraction)
+numComments=4
